@@ -11,8 +11,8 @@ import string
 def string_similarity(str1, str2):
     return SequenceMatcher(None, str1, str2).ratio()
 
-cedex = open(r'C:\temp\cedex.txt' , encoding='UTF8' )
-adif = open(r'C:\temp\adif_noLineas.txt' , encoding='UTF8')
+cedex = open(r'.\textos\cedex.txt' , encoding='UTF8' )
+adif = open(r'.\textos\adif_noLineas.txt' , encoding='UTF8')
 #adif = open()
 
 # readlines falla con acentos, hacer open()) con encoding

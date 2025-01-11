@@ -33,7 +33,7 @@ def selector_salidas(f1, f2, affinity, logfile):
         if pctstr == 'q': exit(0)
         elif pctstr == 'c':
             salida.close()
-            salida = open(r'C:\temp\oposicion_out_jaccard.txt' , 'w', buffering=1, encoding='UTF8')
+            salida = open(r'.\textos\oposicion_out_jaccard.txt' , 'w', buffering=1, encoding='UTF8')
         elif pctstr == '': pctstr=PCT
         elif pctstr[0:2] == 't1':
             # relacionadas con un tema concreto del primer fichero

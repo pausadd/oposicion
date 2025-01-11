@@ -1,0 +1,110 @@
+1. El trazado ferroviario: La plataforma ferroviaria. Características. Ancho de vía. La Entrevía. El sobre-ancho en la entrevía. Gálibo
+2. El trazado ferroviario: Planta y alzado del trazado y sus características. Peralte del trazado y sus propiedades. Curvas de transición en el trazado.
+3. El trazado ferroviario: Relación de fuerzas. Cálculo de peraltes. Coeficiente de flexibilidad. Aceleraciones no compensadas. Zonas de transición y radios de curvatura.
+4. La vía: Vía y materiales. Geometría de vía. Montaje y proceso constructivo.
+5. La vía: Vía en balasto. Tipos y características del balasto. El vuelo de balasto en líneas de alta velocidad. Problemática y soluciones.
+6. La vía: Vía en placa: tipos y soluciones. Ventajas e inconvenientes.
+7. La vía: Vía mixta. Cambio de ancho.
+8. La vía: elementos de vía. El carril: tipos y características. Las traviesas: tipos y características. Las sujeciones de vía: tipos y características. La suela bajo traviesa.
+9. La vía: Aparatos de vía. Cambio, elementos de un cambio. Agujas, contra-agujas y cruzamientos.
+10. Esfuerzos en la vía: Tensiones verticales en el carril, tensiones longitudinales. Los esfuerzos transversales. Criterios de descarrilamiento.
+11. La red ferroviaria Europea: corredores Europeos de mercancías.
+12. La red ferroviaria Española: líneas, características, equipamiento y suministradores. Fronteras interiores. Conexiones internacionales: Barcelona – Figueras – Perpignan.
+13. Sistemas de protección: detección de caída de objetos, viento lateral, cajas calientes y desprendimientos.
+14. La electrificación ferroviaria: Sistema de captación de corriente. Catenaria: hilo de contacto, sustentador, péndolas, feeder de retorno, ménsulas y aisladores. Cantonamiento y compensaciones.
+15. La electrificación ferroviaria: Sistema de captación de corriente. El pantógrafo. Evolución del pantógrafo. Pantógrafo poligonal. Pantógrafo asimétrico. Parámetros tecnológicos.
+16. La electrificación ferroviaria: Estudio del contacto entre pantógrafo y catenaria. Fuerza de interacción.
+17. La electrificación ferroviaria: Tensiones de alimentación. Alimentación en continua y en alterna: ventajas y/o inconvenientes. Los sistemas de alimentación 2x25 kV. Reducción de las pérdidas de transmisión.
+18. La electrificación ferroviaria: Subestaciones de alimentación. Subestaciones de continua y subestaciones de alterna.
+19. Sistemas de almacenamiento cinético de energía y su aplicación en el ámbito ferroviario.
+20. Almacenamiento de Energía. La máquina de reluctancia en aplicaciones de almacenamiento cinético. Convertidores de potencia unidireccionales y bidireccionales para el accionamiento de máquinas de reluctancia variable.
+21. Sistemas técnicos de explotación: Estaciones en línea; vía única y vía doble. Sistemas de bloqueo. Vías banalizadas. Pasos a nivel.
+22. Planificación del movimiento de trenes: Planificación de la circulación de trenes. Gráficos de marcha. Horario cadenciado. Libros de itinerarios. Organización del material de transporte y recursos humanos.
+23. Capacidad de líneas: Factores que influyen en la capacidad. Espaciamiento mínimo entre trenes con señalización lateral. Cálculo de la capacidad de una línea. Aumento de la capacidad de las líneas.
+24. Curvas de frenado: Potencia de frenado y distancia de parada. Evolución de los sistemas de frenado. Limitaciones de velocidad debidas al frenado. Frenado a alta velocidad.
+25. Planificación y explotación de líneas de alta velocidad: El límite de velocidad en los itinerarios clásicos. Sistemas de explotación de líneas de alta velocidad. Tráfico de viajeros vs. Tráfico mixto.
+26. Ferrocarril, energía y medio ambiente: Consumo energético del ferrocarril en el transporte de viajeros y mercancías. Contaminación atmosférica, cambio climático y ferrocarril.
+27. Establecimiento del espacio ferroviario europeo único: Gestores de Infraestructura y Operadores de transporte. Organización de las empresas ferroviarias. La directiva 2012/34/EU y su repercusión en las empresas ferroviarias. El canon por el uso de la infraestructura ferroviaria.
+28. Material rodante: Introducción. Tipos de material rodante. Interacción material rodante-infraestructura.
+29. Material rodante: Elementos comunes de material rodante. Rodadura o eje montado. Cajas de grasa. Otros elementos no comunes en la rodadura.
+30. Material rodante: Elementos comunes de material rodante. Suspensión y guiado de ejes. Suspensión primaria y secundaria. Bastidores de bogies. Muelles. Amortiguación. Guiado de ejes y bogies.
+31. Material rodante: Elementos comunes de material rodante. Enganches. Tipos de enganche. Elementos auxiliares. Otros elementos.
+32. Material rodante: Tren convencional: Tren traccionado y régimen «push-pull». Tren autopropulsado: Tracción concentrada y tracción distribuida. Elementos comunes. Arquitectura de los automotores. Zona técnica. Cabinas de conducción. Zona de transporte.
+33. Material rodante: Locomotoras. Concepto de masa adherente, adherencia ferroviaria y esfuerzo de tracción. Curva característica de tracción esfuerzo-velocidad.
+34. Material rodante: Equipos embarcados en una locomotora. Equipos neumáticos. Equipos eléctricos. Equipos mecánicos. Equipos electrónicos. Equipos hidráulicos.
+35. Material rodante: Tipos de tracción en el material rodante. Tracción vapor. Tracción diésel. Tracción eléctrica. Tracción electro-diesel. Tracción híbrida.
+36. Material rodante: Tecnologías especiales en el material rodante: Cambio de ancho. Aspectos históricos. Tecnologías de ejes de ancho variable. Cambiadores de ancho en la infraestructura: Diseño y proceso de cambio.
+37. Material rodante: Tecnologías especiales en el material rodante: Cajas inclinables. Conceptos previos y problemática inicial. Solución mediante basculación activa o artificial. Solución mediante pendulación. Diferencias.
+38. Material rodante: alta velocidad. Tecnologías del material de alta velocidad. Interfaces tren-infraestructura. Ancho de vía, electrificación, sistemas de señalización y ATP, sistemas de comunicaciones.
+39. Material rodante: Resistencia al avance. Aerodinámica en alta velocidad. Vientos laterales.
+40. Conceptos generales de la señalización. El desarrollo de la señalización, su impacto en la seguridad y en la regulación en la evolución del ferrocarril.
+41. Elementos de señalización. Señales luminosas. Tipos y características. Posición en la vía. Aspecto.
+42. Elementos de señalización. Desvíos y travesías. Accionamiento eléctrico y sus timonerías. Descripción del funcionamiento del accionamiento eléctrico. Requerimientos para su mando y control.
+43. Elementos de señalización. Sistemas de detección de tren. Circuitos de vía y juntas aislantes. Tipos y reglas de ingeniería. Contadores de ejes.
+44. Sistemas señalización lateral. Bloqueos. Tipos de bloqueos. Proceso de frenado. Capacidad e intervalo. El diagrama espacio tiempo y capacidad de la línea. Influencia del bloqueo en la capacidad de transporte. Bloqueo en las líneas de AV españolas.
+45. Sistemas señalización lateral. Enclavamiento. Diferencia entre enclavamiento y bloqueo. Arquitectura general de un enclavamiento. Tipos de enclavamiento.
+46. Los enclavamientos como base del movimiento seguro de los trenes. Concepto y especificación funcional del enclavamiento. Diseño de un enclavamiento. El Control de Tráfico Centralizado (CTC).
+47. Sistemas de protección automática del tren (ATP). Sistemas de supervisión discontinua: el ASFA.
+48. Sistemas de protección automática del tren (ATP). Sistemas de supervisión discontinua: el ASFA Digital.
+49. Sistemas de protección automática del tren (ATP). Sistemas puntuales de supervisión continua: el Ebicab y el KVB.
+50. Sistemas de protección automática del tren (ATP). Sistemas de supervisión y transmisión continua: el TVM.
+51. Sistemas de protección automática del tren (ATP). Sistemas de supervisión y transmisión continua: el LZB.
+52. Señalización en cabina. Los sistemas ATP embarcados. Sistemas ATP puntuales y continuos. Comparación ATP/ATO-CV, ATP/ATO-DO y block móvil. Sistemas CBTC.
+53. La fiabilidad, disponibilidad, mantenibilidad y seguridad ferroviarias. Factores genéricos y específicos. Ciclo de vida y sus fases. Riesgo, amenazas e integridad.
+54. La seguridad en la circulación de los trenes: Seguridad funcional y seguridad técnica. Sistemas seguros ante fallos. La seguridad en CENELEC. Probabilidad de ocurrencia, niveles de seguridad y niveles de riesgo.
+55. Sistemas modernos de señalización ferroviaria en líneas de alta velocidad. Origen y génesis. Beneficios económicos y sociales derivados de la estandarización ferroviaria.
+56. El sistema ERTMS. Principios básicos de funcionamiento. Transmisión de información. Supervisión del movimiento del tren. Componentes del sistema. Autoridad de movimiento.
+57. Definición de interfaces estándar en el subsistema de control, mando y señalización. Arquitectura básica del sistema. Interfaces FFFIS: Eurobaliza, Euroradio, STM, LTM y JRU. Interfaces FIS: Interfaz conductor/máquina (DMI), unidad de interfaz con el tren e interfaz de odometría.
+58. Definición de interfaces estándar en el subsistema de control, mando y señalización. Arquitectura básica del sistema. Interfaces FIS: Interfaz conductor/máquina (DMI), unidad de interfaz con el tren e interfaz de odometría.
+59. Especificaciones funcionales del sistema ETCS: Funciones básicas; niveles de aplicación; operación con los sistemas nacionales; estados operacionales y funciones operacionales. Modos degradados y sistemas de respaldo. Interfaz hombre-máquina.
+60. Estructura de las especificaciones técnicas del sistema ETCS: descripción básica del sistema; principios de funcionamiento; modos de funcionamiento y transiciones; procedimientos de operación; gestión de versiones y lenguaje ERTMS.
+61. Niveles de Aplicación del Sistema ETCS: Nivel de aplicación de no equipamiento. Nivel de aplicación con asignación continua y discontinua de información. Control por sistemas nacionales.
+62. Niveles de Aplicación del Sistema ETCS: transiciones entre niveles y reconocimiento; tablas de prioridades; niveles superpuestos.
+63. Niveles de Aplicación del Sistema ETCS. Futuro del sistema ERTMS. Nivel basado en la integridad del tren. Cantonamiento fijo frente a cantonamiento móvil.
+64. Modos funcionales del equipo ETCS embarcado: modos de supervisión parcial. Modo de supervisión completo. Descripción y aplicabilidad. Información supervisada.
+65. Modos funcionales del equipo ETCS embarcado: responsabilidad del maquinista. Rebase autorizado. Modo de maniobra.
+66. Modos funcionales del equipo ETCS embarcado: fallo del sistema. Modo no equipado. Modos de frenado y post frenado.
+67. Modos funcionales del equipo ETCS embarcado: funciones disponibles y transiciones entre modos. Información disponible en el DMI en función de los modos.
+68. Principios funcionales del sistema ETCS: Principio de funcionamiento de la información de enlace. Reacciones de enlace.
+69. Principios funcionales del sistema ETCS: Principio de funcionamiento de la información avanzada. Dispositivos de envío de información avanzada.
+70. Principios funcionales del sistema ETCS: Gestión de la comunicación de radio. Principios de localización, posicionamiento y orientación del tren. Completitud de la información para el movimiento seguro del tren.
+71. Principios funcionales del sistema ETCS: estructura de la autoridad de movimiento. Información redundante. Restricciones estáticas de velocidad y gradientes. Condiciones de vía.
+72. Monitorización de la distancia y velocidad. Curvas de supervisión y frenado de los trenes. Determinación de puntos de parada y cálculo de la curva de deceleración.
+73. Procedimientos operaciones del ETCS: procedimiento de inicio de misión. Datos almacenados en el equipo embarcado. Diagrama de flujo. Situaciones degradadas. Modos de entrada en misión.
+74. Procedimientos operaciones del ETCS: procedimiento de fin de misión. Modos considerados como fin de misión. Situaciones degradadas.
+75. Procedimientos operaciones del ETCS: procedimiento de maniobras ordenadas por vía o por maquinista. Procedimiento de rebase.
+76. Procedimientos operaciones del ETCS: entrada a vía ocupada. Procedimiento de frenado y post frenado.
+77. Estructura del lenguaje ETCS. Definición de variables y paquetes. Paquetes tren-vía, vía-tren y ambos. Definición de telegramas y mensajes. Reglas de creación y estructura. Mensajes tren-vía y mensajes vía-tren.
+78. Clasificación de los requisitos. Requisitos de vía. Requisitos de equipo embarcado. Requisitos de ingeniería y requisitos funcionales. Verificabilidad de los requisitos.
+79. Descripción funcional del banco de pruebas del equipo ETCS embarcado. Arquitectura de ensayos de los equipos embarcados. Módulos adaptadores de la interfaz con el tren y odometría. Módulos de ejecución de los ensayos.
+80. Especificaciones de prueba del equipo ETCS embarcado. Características a ensayar. Casos de prueba. Secuencias de ensayo. Herramientas para la creación y validación de casos y secuencias de prueba.
+81. Descripción del interfaz hombre-máquina del equipo ETCS embarcado. Supervisión de velocidad y distancia. Área de Planificación. Símbolos, iconos. Información mostrada en función del modo y nivel.
+82. Interfaz del equipo ETCS embarcado con el tren. Control de freno: freno de servicio y freno de emergencia. Control de las funciones del tren: cambio de tracción, pantógrafo, presurización y disyuntor de potencia.
+83. Registrador Jurídico ETCS. Principios. Información registrada. Estructura general de los mensajes.
+84. Descripción básica del interfaz de Euroradio. Protocolos de comunicación de Euroradio. Interfaz con los servicios seguros: Primitivas. Interfaz con la red móvil. Módulos funcionales seguros.
+85. Evaluación de las especificaciones de prueba del equipo ETCS embarcado. Validación de los pasos de las secuencias. Validación por tiempo y por distancia. Clasificación de los eventos.
+86. Descripción básica de equipos ETCS de vía. Centro de Bloqueo por radio (RBC). Unidad Electrónica de conexión a balizas. Eurobalizas. Eurolazo.
+87. Descripción funcional del conjunto enclavamiento-centro de bloqueo por radio. Generación segura de rutas. Generación continúa de las autoridades de movimiento. Gestión de tráfico de múltiples trenes.
+88. Transición entre centros de bloqueo por radio (RBC). Procedimiento de transición entre áreas de distinta responsabilidad de los RBC. RBC receptor y RBC saliente. Comunicación entre RBCs.
+89. Ensayos operacionales: aplicación específica vs. aplicación genérica. Ensayos de puesta en servicio en laboratorio. Ensayos de infraestructura. Ensayos de integración tren-vía.
+90. Realización de ensayos operacionales en laboratorio de Nivel 1 ETCS. Generador automático de escenarios. Visualización de topología y elementos de campo. Integración de equipo embarcado (EVC)
+91. Realización de ensayos operacionales en laboratorio de Nivel 2 ETCS. Integración de bancos de ensayo de EVC y RBC en el laboratorio.
+92. Reglas de ingeniería ERTMS. Reglas de instalación. Telegramas y mensajes. Ingeniería de la autoridad de movimiento. Requisitos de prestaciones del sistema.
+93. Interfaz de Eurobaliza para un simulador de nivel 1. Generación de las señales de baliza. Inyección de señales en el lazo de referencia para su emisión a la eurocabina real. Simulación de la velocidad del tren.
+94. Especificación funcional del subsistema de Eurobaliza: funcionalidad, interfaces, características.
+95. Arquitectura de un banco de pruebas de Eurobaliza: herramientas, dispositivos de referencia y equipos. Descripción de los ensayos.
+96. Arquitectura de un banco de pruebas de Antena-BTM: herramientas, dispositivos de referencia y equipos. Descripción de los ensayos.
+97. Norma UNE-EN ISO/IEC 17025 de Acreditación de Laboratorios de Ensayo: Manual de Calidad.
+98. Norma UNE-EN ISO/IEC 17025 de Acreditación de Laboratorios de Ensayo: Procedimientos Operativos de Calidad.
+99. Norma UNE-EN ISO/IEC 17025 de Acreditación de Laboratorios de Ensayo: Instrucciones Técnicas de Ensayo.
+100. Concepto de interoperabilidad en el ámbito ferroviario. Génesis y Objetivos. Situación actual en los diferentes países europeos. Corredores europeos: red nuclear y red auxiliar.
+101. Normativa europea de interoperabilidad aplicada al Sistema Ferroviario. Directivas y decisiones aplicables. Jerarquía. Modificaciones y enmiendas. Tipos de Subsistemas de naturaleza estructural. Tipos de Subsistemas de naturaleza funcional.
+102. Seguridad frente a interoperabilidad en sistemas de alta velocidad.
+103. Organismos de evaluación de conformidad. Organismos Notificados (NoBo) y Organismo designado (DeBo). Relación y dependencia.
+104. Organismos de evaluación independiente de seguridad (ISA) y Organismo de evaluación independiente (AsBo). Dependencia en relación con un proceso de integración segura.
+105. Especificaciones Técnicas de Interoperabilidad (ETIs). Estructura de una ETI. Requisitos Esenciales de un Subsistema. Parámetros básicos.
+106. Definición de componentes de interoperabilidad en el subsistema de control, mando y señalización. Evaluación de la conformidad de los constituyentes de interoperabilidad.
+107. Proceso de verificación CE de un subsistema. Declaración de verificación intermedia DVI. Partes del subsistema. Etapas del procedimiento de verificación. Expediente técnico y Certificado de verificación. Declaración de verificación.
+108. Procedimientos en la evaluación de la conformidad mediante módulos. Criterios de selección. Módulos para componentes y subsistemas.
+109. Examen tipo y verificación CE basada en la verificación de los productos. Examen de diseño y control de la calidad total del sistema.
+110. Especificaciones Técnicas de Interoperabilidad (ETIs). Subsistemas estructurales. El papel de la Agencia Ferroviaria Europea como garante de la especificación técnica.

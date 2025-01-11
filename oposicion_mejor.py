@@ -14,17 +14,17 @@ def embedding_similarity(text1, text2):
     embeddings = model.encode([text1, text2], convert_to_tensor=True)
     return util.cos_sim(embeddings[0], embeddings[1]).item()
 
-cedex = open(r'C:\temp\cedex.txt' , encoding='UTF8' )
-adif = open(r'C:\temp\adif_noLineas.txt' , encoding='UTF8')
-#cedex = open(r'C:\temp\cedex_test.txt' , encoding='UTF8' )
-#adif = open(r'C:\temp\adif_noLineas_test.txt' , encoding='UTF8')
+cedex = open(r'.\textos\cedex.txt' , encoding='UTF8' )
+adif = open(r'.\textos\adif_noLineas.txt' , encoding='UTF8')
+#cedex = open(r'.\textos\cedex_test.txt' , encoding='UTF8' )
+#adif = open(r'.\textos\adif_noLineas_test.txt' , encoding='UTF8')
 
 # readlines falla con acentos, hacer open()) con encoding
 f1=cedex.readlines()
 f2=adif.readlines()
 
 #print output to file, buffer cada linea 
-salida = open(r'C:\temp\oposicion_oou.txt' , 'w', buffering=1, encoding='UTF8')
+salida = open(r'.\textos\oposicion_oou.txt' , 'w', buffering=1, encoding='UTF8')
 def miPrint(s):
     print( s )
     salida.write(s + '\n')
@@ -73,7 +73,7 @@ while True:
     if pctstr == 'q': exit(0)
     elif pctstr == 'c':
         salida.close()
-        salida = open(r'C:\temp\oposicion_out.txt' , 'w', buffering=1, encoding='UTF8')
+        salida = open(r'.\textos\oposicion_out.txt' , 'w', buffering=1, encoding='UTF8')
     elif pctstr == '': pctstr=PCT
     
     try:
