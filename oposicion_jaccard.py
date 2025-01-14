@@ -15,7 +15,7 @@ adif = open(r'.\textos\adif_noLineas.txt' , encoding='UTF8')
 f1=cedex.readlines()
 f2=adif.readlines()
 
-#print output to file, buffer cada linea 
+# print output to file, buffer cada linea 
 salida = open(r'.\textos\oposicion_out_jaccard.txt' , 'w', buffering=1, encoding='UTF8')
 def miPrint(s):
     print( s )
